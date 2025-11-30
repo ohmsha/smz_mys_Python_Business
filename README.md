@@ -1,4 +1,4 @@
-# 企業事例でわかる　Pythonビジネスデータ分析入門（オーム社）
+# 『企業事例でわかる　Pythonビジネスデータ分析入門』（オーム社）
 
 <p align="center"><a href="https://www.ohmsha.co.jp/book/9784274234255/"><img width="40%" src="https://www.ohmsha.co.jp/Portals/0/book/small/978-4-274-23425-5.jpg" /></a></p>
 
